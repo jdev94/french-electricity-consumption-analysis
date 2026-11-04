@@ -1,0 +1,19 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+
+# Configuration locale VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Données brutes volumineuses
+raw/*.csv
